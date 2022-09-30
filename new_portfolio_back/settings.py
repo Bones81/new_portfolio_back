@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'new_portfolio_back.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'portfolio_api',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': 'localhost'
+        'NAME': 'mrjwtyde',
+        'USER': 'mrjwtyde',
+        'PASSWORD': 'q96JaxV0yntFUAO1U2WjX_H2ZqT35UGt',
+        'HOST': 'jelani.db.elephantsql.com'
     }
 }
 
